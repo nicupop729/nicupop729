@@ -1,5 +1,10 @@
 # Hi there, I'm Nicolae Pop 👋 
 
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/nicupop729/count.svg" />
+</p>
+
 ## I'm a Husband, a Forever Learner and a Full-Stack Developer!!
 
 - 🌱 I’m currently learning everything regarding web development 🤣
@@ -48,7 +53,7 @@
   <a href="https://github.com/nicupop729">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nicupop729&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nicupop729&theme=tokyonight&hide_border=true" />
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nicupop729&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nicupop729&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,text,php">
   </a>
 </p>
 <br>

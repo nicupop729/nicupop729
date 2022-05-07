@@ -15,8 +15,8 @@
 
 ## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
-[![website](./img/globe-light.svg)](https://portfolio-nicolae-pop.netlify.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://portfolio-nicolae-pop.netlify.app#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://www.nicolaepop.me#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.nicolaepop.me#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/nicupop729#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/nicupop729#gh-dark-mode-only)

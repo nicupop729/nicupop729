@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything regarding web development 🤣
 - 👯 I’m looking to collaborate with same minded people 🤗
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love to travel and explore new places 🌎
 - 😻 Currently I'm located in Asuncion, Paraguay 🇵🇾, but I'm from Oradea, Romania 🇷🇴
 
